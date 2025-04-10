@@ -1,0 +1,16 @@
+Utilizando testes funcionais com php
+
+Vence hoje às 23:59
+
+Instruções
+
+Criar um Banco de dados somente para realizar os testes;
+
+Criar uma tabela no banco de dados chamada Usuario contendo as seguintes colunas: 
+nome, email, senha, cpf, telefone, data de nascimento;
+
+Criar uma classe referente ao banco de dados com funções 
+para realizar um CRUD;
+
+A inserção no banco de dados deve ser feita através de uma classe de testes UsuarioTest, 
+onde terão métodos que criem objetos da classe usuário e insira no banco de dados;
